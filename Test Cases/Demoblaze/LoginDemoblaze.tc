@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginDemoblaze</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>935ac596-c977-46cf-87cd-be393a55c2d8</testCaseGuid>
+   <variable>
+      <defaultValue>'https://www.demoblaze.com/'</defaultValue>
+      <description></description>
+      <id>3aa7f1be-6ffb-4d0b-aa58-65caa6c52dfc</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'deandanial54@gmail.com'</defaultValue>
+      <description></description>
+      <id>4f230c5e-00b9-4f38-97fd-e606cce33475</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'8L5DXRtjYlwCsx1zRpR4xQ=='</defaultValue>
+      <description></description>
+      <id>1f0fe7b5-c96b-44ea-9bdf-143d235e1796</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

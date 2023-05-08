@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ParameterizeObjects</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00fb5c87-2e9f-4d68-960d-9bfce2c49c67</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40d262fd-78c5-42ac-a076-506c1190c00f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'None'</defaultValue>
+      <description></description>
+      <id>40d262fd-78c5-42ac-a076-506c1190c00f</id>
+      <masked>false</masked>
+      <name>program</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddtoCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af5cffab-7d09-4464-b4e7-466cda34126e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f6741edb-87a2-4301-a682-f26141ef2195</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0c19ee8a-e791-4d40-a020-94b12c254c12</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f92f483b-cb61-4f37-8364-7081054c06ba</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'https://www.demoblaze.com/'</defaultValue>
+      <description></description>
+      <id>f6741edb-87a2-4301-a682-f26141ef2195</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>'deandanial54@gmail.com\r\n'</defaultValue>
+      <description></description>
+      <id>0c19ee8a-e791-4d40-a020-94b12c254c12</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'EJ1guiSHWFmfjq7wATVcxA=='</defaultValue>
+      <description></description>
+      <id>f92f483b-cb61-4f37-8364-7081054c06ba</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

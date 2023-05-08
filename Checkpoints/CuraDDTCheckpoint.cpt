@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CuraDDTCheckpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/CuraDDT</source-url>
+   </source-info>
+   <taken-date>2023-05-08T12:17:15.561</taken-date>
+   <column-names>
+      <column-name>facility</column-name>
+      <column-name>healthcare_Program</column-name>
+      <column-name>date</column-name>
+      <column-name>comment</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Tokyo CURA Healthcare Center",
+      "checked": true
+    },
+    {
+      "value": "Medicare",
+      "checked": false
+    },
+    {
+      "value": "5/29/23",
+      "checked": false
+    },
+    {
+      "value": "Wow1",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Hongkong CURA Healthcare Center",
+      "checked": true
+    },
+    {
+      "value": "Medicaid",
+      "checked": false
+    },
+    {
+      "value": "5/30/23",
+      "checked": false
+    },
+    {
+      "value": "Wow2",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Seoul CURA Healthcare Center",
+      "checked": true
+    },
+    {
+      "value": "None ",
+      "checked": false
+    },
+    {
+      "value": "5/31/23",
+      "checked": false
+    },
+    {
+      "value": "Wow3",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

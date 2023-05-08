@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alles afwijzen</name>
+   <tag></tag>
+   <elementGuidId>fe17dba3-577b-4d05-8d17-85bd10469483</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='W0wltc']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.QS5gu.sy4vM</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5c53bdc7-2a60-4903-8941-ee01bb069e3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>QS5gu sy4vM</value>
+      <webElementGuid>64256f71-7bfa-4d48-9437-4df2c0036de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>47107990-68f5-4074-8080-515310afa44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alles afwijzen</value>
+      <webElementGuid>d11ccc51-34c9-43a4-b426-d044d30b1153</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;W0wltc&quot;)/div[@class=&quot;QS5gu sy4vM&quot;]</value>
+      <webElementGuid>68d9831a-9d5c-4034-a8be-31f4c67fe745</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='W0wltc']/div</value>
+      <webElementGuid>566e25be-ebbd-49a4-b938-956af304b751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='g.co/privacytools'])[1]/following::div[3]</value>
+      <webElementGuid>79334a9c-35bf-4bb6-b9fb-c3443a5c3d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Als je Alles afwijzen kiest, gebruiken we cookies niet voor deze aanvullende doeleinden.'])[1]/following::div[5]</value>
+      <webElementGuid>514b7d56-9997-42c4-9c33-48fc81785c90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alles accepteren'])[1]/preceding::div[1]</value>
+      <webElementGuid>fa2740e8-835c-42fc-8406-75004d825cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Meer opties'])[1]/preceding::div[2]</value>
+      <webElementGuid>d5b19f46-6bdf-44a9-a5ac-ac7a9dd44b11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alles afwijzen']/parent::*</value>
+      <webElementGuid>92694ad9-ec03-4a8a-a2a4-5ac85da34575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button/div</value>
+      <webElementGuid>8716d66a-8474-4dde-a0cc-cb55a7666b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alles afwijzen' or . = 'Alles afwijzen')]</value>
+      <webElementGuid>26db4825-f4a3-4155-9635-daf5c58e577b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

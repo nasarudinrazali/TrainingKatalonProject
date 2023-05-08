@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>CuraTestSuiteDDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>11780ca2-8434-4bfc-994f-f606f3fbf0ee</testSuiteGuid>
+   <testCaseLink>
+      <guid>d8b65078-c698-4fb7-b1b8-c75a483899dc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CuraDDT</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bacec4e6-fb86-4a57-8e62-26d838da1b3b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/CuraDDT</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>bacec4e6-fb86-4a57-8e62-26d838da1b3b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>3883d046-7489-4797-9c60-5e27305ac5c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bacec4e6-fb86-4a57-8e62-26d838da1b3b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>healthcare_Program</value>
+         <variableId>a842077a-7a49-4e04-b48b-faea5cc24b18</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bacec4e6-fb86-4a57-8e62-26d838da1b3b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>date</value>
+         <variableId>bd8aff8c-5803-433b-90f2-d455933a95cf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1728a106-92f7-4512-ac58-5bd7bd3d858a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>94ea80b0-9315-48e9-867d-dd58741209a2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bacec4e6-fb86-4a57-8e62-26d838da1b3b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>c187f234-1894-4fff-93d3-5d67a1894b48</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

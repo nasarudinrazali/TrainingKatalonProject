@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Test</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>User_Test</description>
+      <initValue>'deandanial54@gmail.com'</initValue>
+      <name>USERNAME_TEST</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Signup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5080a678-4a4f-4ae3-8e27-69c10c2070c7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9ce55a10-a123-4c11-b1d7-bf23bed3ae61</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'EJ1guiSHWFmfjq7wATVcxA=='</defaultValue>
+      <description></description>
+      <id>9ce55a10-a123-4c11-b1d7-bf23bed3ae61</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
